@@ -6,6 +6,7 @@ This directory breaks the hackathon source list into smaller, dataset-first guid
 
 - [Food access and affordability](food-access/README.md)
 - [Growers, land, water, and supply chain](growers-and-supply/README.md)
+- [Water and climate](water-and-climate/README.md)
 - [Markets, civic spaces, and local government](markets-and-civic-spaces/README.md)
 - [Operations, food rescue, and permitting](operations-and-recovery/README.md)
 
@@ -21,6 +22,8 @@ If a team only has time to integrate a few sources, these are the highest-value 
 - [NRCS Soil Data Access / SSURGO](https://sdmdataaccess.nrcs.usda.gov/)
 - [New Mexico Agriculture and Food Supply Chain Atlas](https://nmfoodchainatlas.nmsu.edu/)
 - [USGS Water Data APIs](https://api.waterdata.usgs.gov/)
+- [New Mexico Water Data](https://newmexicowaterdata.org/)
+- [Drought.gov data downloads](https://www.drought.gov/data-download)
 - [Albuquerque GIS downloads](https://www.cabq.gov/gis/geographic-information-systems-data)
 
 ## Choosing The Right Source Type
@@ -38,5 +41,6 @@ If a team only has time to integrate a few sources, these are the highest-value 
 | --- | --- |
 | Food access and assistance | [Food access and affordability](food-access/README.md) |
 | New growers, land, supply, and resilience | [Growers, land, water, and supply chain](growers-and-supply/README.md) |
+| Water availability, drought, and climate resilience | [Water and climate](water-and-climate/README.md) |
 | Community markets and public participation | [Markets, civic spaces, and local government](markets-and-civic-spaces/README.md) |
 | Food rescue, permitting, and operations | [Operations, food rescue, and permitting](operations-and-recovery/README.md) |

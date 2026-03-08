@@ -9,6 +9,7 @@ This repo is organized around **datasets first**. The main goal is to help teams
 - [Dataset index](data-sources/README.md)
 - [Food access and affordability datasets](data-sources/food-access/README.md)
 - [Growers, land, water, and supply chain datasets](data-sources/growers-and-supply/README.md)
+- [Water and climate datasets](data-sources/water-and-climate/README.md)
 - [Markets, civic spaces, and local government datasets](data-sources/markets-and-civic-spaces/README.md)
 - [Operations, food rescue, and permitting datasets](data-sources/operations-and-recovery/README.md)
 
@@ -36,6 +37,7 @@ data-sources/
   README.md
   food-access/README.md
   growers-and-supply/README.md
+  water-and-climate/README.md
   markets-and-civic-spaces/README.md
   operations-and-recovery/README.md
 ```

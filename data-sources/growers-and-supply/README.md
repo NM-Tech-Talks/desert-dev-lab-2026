@@ -95,3 +95,4 @@ This guide supports grower, land, and resilience project ideas, especially:
 - GIS-heavy sources here are best used in a preprocessing step.
 - For a weekend project, teams should prefer derived summary tables over raw raster or map-service layers.
 - Some problems in this cluster, especially around capital access and water rights, may need partner interviews or non-public administrative context in addition to open datasets.
+- For a deeper water-focused source list, see [Water and climate](../water-and-climate/README.md).
