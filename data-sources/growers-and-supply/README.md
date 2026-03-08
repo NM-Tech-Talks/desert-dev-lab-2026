@@ -1,11 +1,11 @@
 # Growers, Land, Water, And Supply Chain Datasets
 
-This guide supports the grower- and resilience-oriented prompts, especially:
+This guide supports grower, land, and resilience project ideas, especially:
 
-- `Go`: new growers lack land and startup capital
-- `Go`: experienced growers face aging-workforce and succession risk
-- `LP-01`: small growers struggle with land, infrastructure, and capital
-- `LP-02`: producers lack demand and distribution visibility
+- new growers facing land and startup barriers
+- experienced growers facing aging-workforce and succession risk
+- small growers struggling with land, infrastructure, and capital
+- producers lacking demand and distribution visibility
 - water scarcity, value-add infrastructure, fertilizer, and procurement-adjacent ideas
 
 ## Best Starting Sources

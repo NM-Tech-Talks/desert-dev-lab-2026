@@ -2,9 +2,7 @@
 
 Resources for the Desert Dev Lab Hackathon 2026.
 
-This repo is organized around **datasets first**. The problem statements from the working sheet are still here, but the main goal of the repo is to help teams quickly find usable Food & Agriculture data sources, understand what each source contains, and see how it can be used in an app.
-
-Source problem list: [Food & Ag review sheet](https://docs.google.com/spreadsheets/d/1EN2ns9BAI97obRXzsCTIX5tEi8aBhEP8/edit?usp=sharing&ouid=102887163016251251248&rtpof=true&sd=true)
+This repo is organized around **datasets first**. The main goal is to help teams quickly find usable Food & Agriculture data sources, understand what each source contains, and see how it can be used in an app.
 
 ## Start Here
 
@@ -14,9 +12,9 @@ Source problem list: [Food & Ag review sheet](https://docs.google.com/spreadshee
 - [Markets, civic spaces, and local government datasets](data-sources/markets-and-civic-spaces/README.md)
 - [Operations, food rescue, and permitting datasets](data-sources/operations-and-recovery/README.md)
 
-## Featured Hackathon Prompts
+## Featured Project Ideas
 
-The `Go` rows from the sheet are still the featured prompts, but their supporting datasets now live in the guides above.
+These are featured example directions for teams that want a starting point. They are meant to spark ideas, not limit what a team can build.
 
 - **Local food resilience:** Albuquerque depends heavily on out-of-state food and processing.
 - **New growers:** Upfront land, infrastructure, and startup barriers limit entry.
@@ -28,7 +26,7 @@ The `Go` rows from the sheet are still the featured prompts, but their supportin
 1. Start with the dataset guide that best matches your idea.
 2. Pick 1-3 sources that are realistic for a weekend prototype.
 3. Prefer cleaned CSV/JSON inputs over live GIS integrations unless mapping is central to your project.
-4. Use the problem statements as context, not as constraints. Combining datasets across themes is encouraged.
+4. Use the example project ideas as inspiration, not as constraints. Combining datasets across themes is encouraged.
 
 ## Repo Structure
 

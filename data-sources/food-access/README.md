@@ -1,10 +1,10 @@
 # Food Access And Affordability Datasets
 
-This guide supports the food-access problem statements in the working sheet, especially:
+This guide supports food-access and affordability project ideas, especially:
 
-- `Food Access & Affordability`: Albuquerque's dependence on out-of-state food
-- `FA-01`: neighborhood access gaps to fresh, healthy food
-- `FA-02`: confusion around assistance resources during disruptions
+- Albuquerque's dependence on out-of-state food
+- neighborhood access gaps to fresh, healthy food
+- confusion around assistance resources during disruptions
 - food waste and household affordability ideas connected to recovery and access
 
 ## Best Starting Sources

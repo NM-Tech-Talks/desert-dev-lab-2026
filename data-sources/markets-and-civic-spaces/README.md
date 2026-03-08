@@ -1,10 +1,10 @@
 # Markets, Civic Spaces, And Local Government Datasets
 
-This guide supports civic-tech and public-space prompts, especially:
+This guide supports civic-tech and public-space project ideas, especially:
 
-- `Go / MC-02`: community influence over food-related public spaces
-- `MC-01`: operational barriers facing community markets
-- parts of `PR-01` and `PR-02` that depend on place, zoning, and city coordination
+- community influence over food-related public spaces
+- operational barriers facing community markets
+- local coordination and permitting questions that depend on place, zoning, and city operations
 
 ## Best Starting Sources
 

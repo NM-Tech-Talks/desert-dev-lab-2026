@@ -1,11 +1,11 @@
 # Operations, Food Rescue, And Permitting Datasets
 
-This guide supports operational and coordination prompts, especially:
+This guide supports operational and coordination project ideas, especially:
 
-- `DW-01`: surplus food is not consistently redirected to people who need it
-- `DW-02`: composting and organic waste diversion are uneven and hard to track
-- `PR-01`: food entrepreneurs face permitting and registration complexity
-- `PR-02`: city departments lack a shared view of food-system-related activity
+- surplus food not being consistently redirected to people who need it
+- composting and organic waste diversion being uneven and hard to track
+- food entrepreneurs facing permitting and registration complexity
+- city departments lacking a shared view of food-system-related activity
 - procurement-related ideas connected to local purchasing workflows
 
 ## Best Starting Sources

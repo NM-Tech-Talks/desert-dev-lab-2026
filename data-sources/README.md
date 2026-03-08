@@ -32,7 +32,7 @@ If a team only has time to integrate a few sources, these are the highest-value 
 | ArcGIS REST service | Maps and spatial queries | Export to GeoJSON or mirror into PostGIS |
 | Raster or heavy GIS data | Suitability analysis | Preprocess into simpler app-friendly summaries |
 
-## Problem Statement Crosswalk
+## Idea Crosswalk
 
 | Theme | Best starting guide |
 | --- | --- |
