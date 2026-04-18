@@ -4,6 +4,16 @@ Resources for the Desert Dev Lab Hackathon 2026.
 
 This repo is organized around **datasets first**. The main goal is to help teams quickly find usable Food & Agriculture data sources, understand what each source contains, and see how it can be used in an app.
 
+
+## Slide Deck
+
+[Desert Dev Lab Slide Deck](https://canva.link/mggsfqaviv25dal)
+
+## Join the discord
+
+[Discord server](https://discord.gg/E384quAG)
+
+
 ## Start Here
 
 - [Dataset index](data-sources/README.md)
