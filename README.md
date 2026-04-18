@@ -54,13 +54,17 @@ These problem statements have been developed and validated by Subject Matter Exp
 
 ### Validated Problem Statements Contributors
 The following SMEs provided a variety of food & ag problem statements, based on their expertise and community feedback. Four options of the set are provided below, by:
-* Jacky So (APINH Affairs, OEI, FUSE)
+* Ann Simon (Sustainability)
 * Alice Main (Sustainability)
 * Sandra West (Sustainability)
 * Albert Lee (Sustainability)
 * Veronica Blount (Sustainability)
 * Solange Archer (Sustainability)
+* Jacky So (APINH Affairs, OEI, FUSE)
 
+Relevant public datasets have been compiled based on these problem statements. Jacky So contributed the Food Access dataset with Travis Neufeld contributing all others.
+
+It is encouraged to seek out mentor guidance on problem statement direction and product build.
 ---
 
 ### Problem Statements Table
